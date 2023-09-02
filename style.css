@@ -6,6 +6,7 @@
 
 header {
   height: 50px;
+  width: 100%;
   background-color: #ff9a4b;
 }
 
@@ -70,6 +71,7 @@ footer {
     header
     {
       width: 100%;
+      display: block;
     }
 
     main
@@ -83,7 +85,8 @@ footer {
     .step
     {
       width: 90%;
-      margin:20px;
+      margin-left: 5%;
+      margin-top: 20px;
     }
 
     .stepimg-1
@@ -106,7 +109,8 @@ footer {
 
     .step-span
     {
-      width: 13%;
+      width: 50px;
+      text-align: center;
     }
 
 
